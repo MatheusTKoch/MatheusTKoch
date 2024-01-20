@@ -9,7 +9,7 @@ Estou sempre em busca de aprender e aprimorar minhas habilidades. Atualmente, es
 - Aprofundar meus conhecimentos em Vue.js
 - Explorar técnicas avançadas de PHP com Laravel
 ## 📫 Como Entrar em Contato
-Estou sempre aberto para conversas e colaborações. Você pode me contatar através deste perfil do GitHub ou conectar-se comigo no [LinkedIn]([https://www.linkedin.com/in/matheus-koch-712806162/](https://www.linkedin.com/in/matheus-trilha-koch-712806162/)).
+Estou sempre aberto para conversas e colaborações. Você pode me contatar através deste perfil do GitHub ou conectar-se comigo no ([LinkedIn](https://www.linkedin.com/in/matheus-trilha-koch-712806162/)).
 Fique à vontade para explorar meus repositórios e deixar um feedback ou contribuição! 🌟
 <!---
 MatheusTKoch/MatheusTKoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
