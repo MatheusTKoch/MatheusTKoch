@@ -1,5 +1,5 @@
  # 👋 Olá, eu sou o @MatheusTKoch
-Meu nome é Matheus Trilha Koch e sou apaixonado por programação web, com um foco especial em Front-End. Tenho experiência prática com frameworks modernos como Laravel e Vue.js, e estou continuamente expandindo meus conhecimentos em diversas tecnologias.
+Meu nome é Matheus Trilha Koch e sou aficcionado por programação web, com um foco especial em Front-End. Tenho experiência prática com frameworks modernos como Laravel e Vue.js, e estou continuamente expandindo meus conhecimentos em diversas tecnologias.
  ## 🚀 Tecnologias e Ferramentas
 - JavaScript (especialmente Vue.js)
 - PHP (Laravel)
