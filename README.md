@@ -12,7 +12,7 @@ Sou apaixonado por desenvolvimento web, principalmente na área de aplicações 
 ## 🌱 Atualmente Aprendendo
 Atualmente, estou focado em:
 - Concluir meus projetos pessoais;
-- Melhorar os projetos existentes;
+- Aprofundar conhecimentos em Java;
 
 ## 📫 Como Entrar em Contato
 Você pode me contatar através deste perfil do GitHub ou conectar-se comigo no [LinkedIn](https://www.linkedin.com/in/matheus-trilha-koch-712806162/).
