@@ -2,8 +2,7 @@
 Sou apaixonado por desenvolvimento web, principalmente na área de aplicações Full Stack. Utilizo tecnologias como Vue.js para criar aplicativos que facilitem a experiência do usuário e solucionem problemas reais.
 
 ## 🚀 Tecnologias e Ferramentas
-- JavaScript (Vue.js)
-- React
+- JavaScript (Vue.js/React/Angular)
 - SQL (MySQL)
 - Linux
 - NodeJS
