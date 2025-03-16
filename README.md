@@ -3,7 +3,7 @@ Sou apaixonado por desenvolvimento web, principalmente na área de aplicações 
 
 ## 🚀 Tecnologias e Ferramentas
 - JavaScript (Vue.js/React/Angular)
-- SQL (MySQL)
+- SQL (MySQL/Firebird)
 - Linux
 - NodeJS
 - Python
