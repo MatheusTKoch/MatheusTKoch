@@ -7,6 +7,7 @@ Sou apaixonado por desenvolvimento web, principalmente na área de aplicações 
 - Linux
 - NodeJS
 - Python
+- Java
 
 ## 🌱 Atualmente Aprendendo
 Atualmente, estou focado em:
