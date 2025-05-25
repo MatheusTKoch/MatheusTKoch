@@ -1,23 +1,15 @@
 # 👋 Olá, eu sou o @MatheusTKoch
-Sou apaixonado por desenvolvimento web, principalmente na área de aplicações Full Stack. Utilizo tecnologias como Vue.js para criar aplicativos que facilitem a experiência do usuário e solucionem problemas reais.
+Desenvolvedor Full Stack com foco em aplicações web modernas. Tenho paixão por criar soluções que unem eficiência, usabilidade e impacto real. Utilizo Vue.js como principal framework frontend e possuo experiência em diversas tecnologias backend e banco de dados.
 
-## 🚀 Tecnologias e Ferramentas
-- JavaScript (Vue.js/React/Angular)
-- SQL (MySQL/Firebird)
-- Linux
-- NodeJS
-- Python
-- Java
+## ⚙️ Tecnologias e Ferramentas
+- **Frontend:** Vue.js, React, Angular, JavaScript
+- **Backend:** Node.js, Python, Java, Delphi
+- **Banco de Dados:** MySQL, Firebird, SQL
+- **Outros:** Linux, Git
 
-## 🌱 Atualmente Aprendendo
-Atualmente, estou focado em:
-- Concluir meus projetos pessoais;
-- Aprofundar conhecimentos em Java;
-
-## 📫 Como Entrar em Contato
-Você pode me contatar através deste perfil do GitHub ou conectar-se comigo no [LinkedIn](https://www.linkedin.com/in/matheus-trilha-koch-712806162/).
-
-Explore meus repositórios e sinta-se à vontade para deixar feedback ou contribuir! 🌟
+## 🌐 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-trilha-koch-712806162/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheusTKoch)
 
 <!---
 MatheusTKoch/MatheusTKoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
