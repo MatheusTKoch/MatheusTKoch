@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o @MatheusTKoch
-Desenvolvedor Full Stack com foco em aplicações web modernas. Tenho paixão por criar soluções que unem eficiência, usabilidade e impacto real. Utilizo Vue.js como principal framework frontend e possuo experiência em diversas tecnologias backend e banco de dados.
+Desenvolvedor Full Stack com foco em aplicações web e desktop modernas. Tenho paixão por criar soluções que unem eficiência, usabilidade e impacto real. Utilizo Vue.js como principal framework frontend e possuo experiência em diversas tecnologias backend e banco de dados.
 
 ## ⚙️ Tecnologias e Ferramentas
 - **Frontend:** Vue.js, React, Angular, JavaScript
-- **Backend:** Node.js, Python, Java, Delphi
-- **Banco de Dados:** MySQL, Firebird, SQL
-- **Outros:** Linux, Git
+- **Backend:** Node.js, Python, Java 
+- **Banco de Dados:** Firebird, SQL, MySQL 
+- **Outros:** Linux, Git, Delphi
 
 ## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-trilha-koch-712806162/)
