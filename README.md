@@ -4,7 +4,7 @@ Desenvolvedor Full Stack com foco em aplicações web e desktop modernas. Tenho 
 ## ⚙️ Tecnologias e Ferramentas
 - **Frontend:** Vue.js, React, Angular, JavaScript
 - **Backend:** Node.js, Python, Java 
-- **Banco de Dados:** Firebird, SQL, MySQL 
+- **Banco de Dados:** Postgres, Firebird, MySQL 
 - **Outros:** Linux, Git, Delphi
 
 ## 🌐 Contato
